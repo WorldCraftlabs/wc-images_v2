@@ -23,10 +23,10 @@
     },
     "Name": "Minecraft Bedrock: PocketMine",
     "Description": "PocketMine-MP is a server software for Minecraft: Bedrock Edition, allowing users to create and manage their own Minecraft servers.",
-    "Author": "info@skyport.dev",
-    "AuthorName": "Skyport Labs",
+    "Author": "",
+    "AuthorName": "WordCraft  Labs",
     "Meta": {
-      "Version": "Skyport Images v2"
+      "Version": "WordCraft  Images v2"
     }
   }
   
